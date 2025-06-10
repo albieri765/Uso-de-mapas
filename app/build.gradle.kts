@@ -47,6 +47,7 @@ dependencies {
     implementation("com.google.maps.android:maps-compose:$mapsComposeVersion")
     implementation ("androidx.compose.material3:material3:1.1.2")
     implementation ("com.google.android.gms:play-services-maps:18.1.0")
+    implementation ("com.google.android.gms:play-services-location:21.0.1")
     // Utilidades de Google Maps para Jetpack Compose
     implementation("com.google.maps.android:maps-compose-utils:$mapsComposeVersion")
     // Widgets de Google Maps Compose
